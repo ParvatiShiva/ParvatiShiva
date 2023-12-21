@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm DHANANJAY SHARMA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.webp"/>
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/origin/58/5864e47b397df064f667d229097695c3_w200.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvatishiva&label=Profile%20views&color=0e75b6&style=flat" alt="parvatishiva" /> </p>
 
