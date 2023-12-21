@@ -1,3 +1,4 @@
+![logo](https://github.com/ParvatiShiva/ParvatiShiva/blob/main/1678963713021.jpg)
 <h1 align="center">Hi 👋, I'm DHANANJAY SHARMA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
